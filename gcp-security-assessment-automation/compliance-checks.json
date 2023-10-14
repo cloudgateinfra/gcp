@@ -1,0 +1,9 @@
+{
+  "checks": [
+    {
+      "name": "Ensure Firewall Rules exist",
+      "command": "gcloud compute firewall-rules list",
+      "expectedOutput": "..."
+    }
+  ]
+}

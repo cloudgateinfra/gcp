@@ -1,0 +1,4 @@
+{
+  "primaryRegion": "us-central1",
+  "secondaryRegions": ["europe-west1", "asia-east1"]
+}

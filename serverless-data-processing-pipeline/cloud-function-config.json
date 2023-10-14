@@ -1,0 +1,5 @@
+{
+  "name": "example-function",
+  "runtime": "nodejs14",
+  "entryPoint": "helloWorld"
+}

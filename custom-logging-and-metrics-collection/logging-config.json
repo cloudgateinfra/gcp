@@ -1,0 +1,5 @@
+{
+  "name": "example-logging",
+  "logBucket": "example-log-bucket",
+  "logObjectPrefix": "logs"
+}

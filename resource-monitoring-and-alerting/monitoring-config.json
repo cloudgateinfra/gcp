@@ -1,0 +1,14 @@
+{
+  "monitoredResource": {
+    "type": "global",
+    "labels": {
+      "project_id": "<YOUR-GCP-PROJECT>"
+    }
+  },
+  "metric": {
+    "type": "custom.googleapis.com/my_metric",
+    "labels": {
+      "my_label": "my_value"
+    }
+  }
+}
