@@ -64,7 +64,7 @@ This repository contains various projects showcasing GCP (Google Cloud Platform)
       - [security-assessment.sh](./path-to-file/security-assessment.sh)
       - [compliance-checks.json](./path-to-file/compliance-checks.json)
 
-Feel free to explore each project, and ensure to replace placeholder values with your actual values where necessary
+Feel free to explore each project, and ensure to replace placeholder values with your actual values where necessary.
 
 
 
