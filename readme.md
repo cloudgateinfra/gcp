@@ -1,4 +1,4 @@
-# GCP DevOps Projects Repository
+# GCP DevOps Projects
 
 This repository contains various projects showcasing GCP (Google Cloud Platform) and DevOps best practices, automation scripts, and configurations. Below are brief overviews of each project along with references to the respective configuration files and scripts:
 
@@ -67,48 +67,4 @@ This repository contains various projects showcasing GCP (Google Cloud Platform)
 Feel free to explore each project, and ensure to replace placeholder values with your actual values where necessary.
 
 
-GCP-DevOps-Projects/
-│
-├── 01-Automated-Deployment-Pipeline/
-│   ├── pipeline-config.yml
-│   ├── k8s-deployment.yml
-│   └── docker-compose.yml
-│
-├── 02-Infrastructure-as-Code/
-│   ├── main.tf
-│   ├── variables.tf
-│   └── outputs.tf
-│
-├── 03-Resource-Monitoring-and-Alerting/
-│   ├── monitoring-config.json
-│   └── alerting-rules.yml
-│
-├── 04-Automated-Database-Backup-and-Restore/
-│   ├── backup-script.sh
-│   └── restore-script.sh
-│
-├── 05-Serverless-Data-Processing-Pipeline/
-│   ├── cloud-function-config.json
-│   └── pubsub-config.json
-│
-├── 06-Multi-Region-Deployment-Automation/
-│   ├── multi-region-deploy.yml
-│   └── region-config.json
-│
-├── 07-Custom-Logging-and-Metrics-Collection/
-│   ├── logging-config.json
-│   └── metrics-collection.sh
-│
-├── 08-Automated-Performance-Testing/
-│   ├── perf-test-script.py
-│   └── test-config.json
-│
-├── 09-Cost-Optimization-Analysis/
-│   ├── cost-analysis-script.py
-│   └── optimization-config.json
-│
-├── 10-GCP-Security-Assessment-Automation/
-│   ├── security-assessment.sh
-│   └── compliance-checks.json
-│
-└── README.md
+
